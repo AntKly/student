@@ -1,0 +1,6 @@
+5
+Vasia 20 2 4 0
+Kolya 23 3 5 0
+Alina 29 5 3 1
+Dima 30 4 2 0
+Sveta 25 5 5 1
